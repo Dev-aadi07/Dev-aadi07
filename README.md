@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pomodoro web-app<br>👯 I’m looking to collaborate on development work<br>🤝 I’m looking for help with<br>🌱 I’m currently learning react<br>💬 Ask me about anything related to computer Science<br>📑 Qualified the Gate 2025
+🔭 I’m currently working on Pomodoro web-app<br>👯 I’m looking to collaborate on development work<br>🌱 I’m currently learning react<br>💬 Ask me about anything related to computer Science<br>📑 Qualified the Gate 2025
 
 
 ## 🌐 Socials:
