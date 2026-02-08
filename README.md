@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am final year Computer Science (AI) student <br>📑 Qualified the Gate 2025 <br> 🌱 I’m currently learning how to React(js)<br>💬 Don't ask how, just see the implementation 😊 <br>🤝 Contact to learn and grow together
+🔭 I am final year Computer Science (AI) student <br>📑 Qualified the Gate 2025 <br> 🌱 I’m currently learning how to React(js) <br>🤝 Contact to learn and grow together
 
 
 ## 🌐 Socials:
