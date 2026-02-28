@@ -1,107 +1,113 @@
 <h1 align="center">Adarsh Kumar Jha</h1>
-<h3 align="center">Computer Science (AI) | GATE 2025 Qualified | Java & Full Stack Developer</h3>
+<p align="center">
+Software Engineer | Java Backend | AI Enthusiast | GATE 2025 Qualified
+</p>
 
 <p align="center">
-  <a href="mailto:aadarshjha07137@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/adarsh-kumar-jha-519b06285">LinkedIn</a> •
-  <a href="https://instagram.com/adarsh07918">Instagram</a>
+<a href="mailto:aadarshjha07137@gmail.com">Email</a> • 
+<a href="https://linkedin.com/in/adarsh-kumar-jha-519b06285">LinkedIn</a>
 </p>
 
 ---
 
-## PROFESSIONAL SUMMARY
+## ENGINEERING PROFILE
 
-Final-year Computer Science (AI) student with strong foundations in Data Structures, Object-Oriented Programming, and Core Computer Science subjects. GATE 2025 qualified. 
+I build systems with a strong foundation in Computer Science fundamentals.
 
-Proficient in Java ecosystem including JDBC and Hibernate. Experienced in building frontend applications using React.js and working with AI/ML tools such as OpenCV and Keras.
+Final-year Computer Science (AI) student and GATE 2025 qualified.  
+Strong problem-solving mindset with deep understanding of Data Structures, OOPS, and backend system design principles.
 
-Actively seeking software development opportunities where I can contribute with strong problem-solving skills and solid backend fundamentals.
+Focused on writing maintainable, scalable, and performance-conscious software.
 
 ---
 
-## TECHNICAL SKILLS
+## CORE STRENGTHS
 
-### Programming Languages
-- Java
-- C++
-- C
-- JavaScript
-- Python
+• Object-Oriented Design & Clean Architecture  
+• Strong DSA & Algorithmic Thinking  
+• Java Backend Development  
+• Database Design & ORM Mapping  
+• Structured Problem Solving  
+• API Design Fundamentals  
 
-### Backend & Database
-- JDBC
-- Hibernate (ORM)
-- SQL
-- Relational Databases
-- Node.js (Basics)
+---
 
-### Frontend
-- React.js
-- HTML5
-- Tailwind CSS
-- Vite
+## TECH STACK
 
-### CS Fundamentals
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems (Basics)
-- System Design (Foundations)
+### LANGUAGES
+Java • C++ • C • JavaScript • Python  
+
+### BACKEND
+Java  
+JDBC (Connection handling, PreparedStatements, Transactions)  
+Hibernate ORM (Entity Mapping, Session Lifecycle, Lazy/Eager Fetching)  
+SQL (Joins, Indexing, Query Optimization Basics)
+
+### FRONTEND
+React.js  
+HTML5  
+Tailwind CSS  
+Vite  
 
 ### AI / ML
-- OpenCV
-- Keras
-- NumPy
-- Pandas
-- scikit-learn
-- Matplotlib
+OpenCV  
+Keras  
+NumPy  
+Pandas  
+scikit-learn  
 
-### Tools
-- Git
-- GitHub
-- GitHub Actions
-- NPM
-
----
-
-## KEY COMPETENCIES
-
-- Strong understanding of OOPS concepts (Encapsulation, Inheritance, Polymorphism, Abstraction)
-- Hands-on experience with JDBC for database connectivity
-- Experience using Hibernate for ORM-based persistence
-- REST API fundamentals understanding
-- Clean code practices and modular programming
-- Competitive programming mindset
+### TOOLS
+Git  
+GitHub  
+GitHub Actions  
+NPM  
 
 ---
 
-## GITHUB ANALYTICS
+## BACKEND EXPERTISE SNAPSHOT
+
+✔ Built database-connected applications using JDBC  
+✔ Implemented ORM layer using Hibernate  
+✔ Understood session management and persistence context  
+✔ Applied OOPS and SOLID principles in project structure  
+✔ Comfortable with layered architecture (Controller → Service → DAO)  
+
+---
+
+## COMPUTER SCIENCE FOUNDATION
+
+Data Structures  
+Algorithms  
+DBMS  
+Operating Systems (Conceptual clarity)  
+System Design Basics  
+
+Strong grasp of memory management, time-complexity trade-offs, and abstraction layers.
+
+---
+
+## CURRENT DIRECTION
+
+- Advancing in Java backend ecosystem  
+- Building production-level full stack projects  
+- Improving system design thinking  
+- Preparing for product-based companies  
+
+---
+
+## GITHUB INSIGHTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-aadi07&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-aadi07&show_icons=true&theme=graywhite&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aadi07&layout=compact&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aadi07&layout=compact&theme=graywhite&hide_border=true"/>
 </p>
 
 ---
 
-## CURRENT FOCUS
-
-- Advanced DSA for product-based companies
-- Backend development with Java ecosystem
-- Improving System Design knowledge
-- Building production-ready full stack projects
-
----
-
-## CAREER OBJECTIVE
-
-To secure a Software Developer role in a growth-oriented organization where I can apply my problem-solving skills, backend expertise, and CS fundamentals to build scalable and impactful systems.
-
----
-
 <p align="center">
-  Open to internships and full-time opportunities.
+Focused on building scalable systems.  
+Open to backend engineering roles and high-impact teams.
 </p>
