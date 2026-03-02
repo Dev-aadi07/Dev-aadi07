@@ -76,11 +76,14 @@
 
 ---
 
-# 🚀 Current Focus  
+# 🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/adarsh-kumar-jha-519b06285"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/> </a> <a href="mailto:aadarshjha07137@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/> </a> </p>
 
+# 🚀 Current Focus
 ```text
 ✔ Mastering Advanced Java & Multithreading
-✔ Writing Production-ready Backend Code
 ✔ Building CRUD Apps using Hibernate + Maven
 ✔ Strengthening System Design Basics
 ✔ Preparing for Spring Boot Development
+
+
