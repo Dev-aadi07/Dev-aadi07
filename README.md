@@ -1,113 +1,128 @@
 <h1 align="center">Adarsh Kumar Jha</h1>
+
 <p align="center">
-Software Engineer | Java Backend | AI Enthusiast | GATE 2025 Qualified
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Backend+Developer;AI+Enthusiast;GATE+2025+Qualified;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
-<a href="mailto:aadarshjha07137@gmail.com">Email</a> • 
-<a href="https://linkedin.com/in/adarsh-kumar-jha-519b06285">LinkedIn</a>
+  <a href="mailto:aadarshjha07137@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://linkedin.com/in/adarsh-kumar-jha-519b06285">
+    <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
 </p>
 
 ---
 
-## ENGINEERING PROFILE
+## ⚡ Engineering Profile
 
-I build systems with a strong foundation in Computer Science fundamentals.
+I design and build backend systems grounded in strong Computer Science fundamentals.
 
-Final-year Computer Science (AI) student and GATE 2025 qualified.  
-Strong problem-solving mindset with deep understanding of Data Structures, OOPS, and backend system design principles.
+Final-year Computer Science (AI) student and **GATE 2025 Qualified**.  
+Deep understanding of Data Structures, OOPS, DBMS, and backend architecture.
 
-Focused on writing maintainable, scalable, and performance-conscious software.
-
----
-
-## CORE STRENGTHS
-
-• Object-Oriented Design & Clean Architecture  
-• Strong DSA & Algorithmic Thinking  
-• Java Backend Development  
-• Database Design & ORM Mapping  
-• Structured Problem Solving  
-• API Design Fundamentals  
+Focused on writing **maintainable, scalable, and performance-aware software**.
 
 ---
 
-## TECH STACK
+## 🚀 Core Strengths
 
-### LANGUAGES
-Java • C++ • C • JavaScript • Python  
-
-### BACKEND
-Java  
-JDBC (Connection handling, PreparedStatements, Transactions)  
-Hibernate ORM (Entity Mapping, Session Lifecycle, Lazy/Eager Fetching)  
-SQL (Joins, Indexing, Query Optimization Basics)
-
-### FRONTEND
-React.js  
-HTML5  
-Tailwind CSS  
-Vite  
-
-### AI / ML
-OpenCV  
-Keras  
-NumPy  
-Pandas  
-scikit-learn  
-
-### TOOLS
-Git  
-GitHub  
-GitHub Actions  
-NPM  
+- Object-Oriented Design & Clean Architecture  
+- Strong Algorithmic & DSA Foundation  
+- Java Backend Engineering  
+- Database Design & ORM Mapping  
+- Structured Problem Solving  
+- API Layer Thinking  
 
 ---
 
-## BACKEND EXPERTISE SNAPSHOT
+# 🛠 Tech Stack
 
-✔ Built database-connected applications using JDBC  
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,python" />
+</p>
+
+### 🔙 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
+  <img src="https://img.shields.io/badge/JDBC-323330?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+- JDBC (PreparedStatements, Transactions, Connection Pooling basics)  
+- Hibernate ORM (Entity Mapping, Session Lifecycle, Lazy vs Eager Fetching)  
+- SQL (Joins, Indexing, Query Optimization Basics)
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind,vite" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,keras,numpy,pandas,sklearn" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm" />
+</p>
+
+---
+
+## 🧠 Backend Expertise Snapshot
+
+✔ Built DB-connected applications using JDBC  
 ✔ Implemented ORM layer using Hibernate  
-✔ Understood session management and persistence context  
-✔ Applied OOPS and SOLID principles in project structure  
-✔ Comfortable with layered architecture (Controller → Service → DAO)  
+✔ Applied SOLID and layered architecture (Controller → Service → DAO)  
+✔ Managed persistence context & session lifecycle  
+✔ Focused on clean modular backend structure  
 
 ---
 
-## COMPUTER SCIENCE FOUNDATION
+## 📚 Computer Science Foundation
 
 Data Structures  
 Algorithms  
 DBMS  
-Operating Systems (Conceptual clarity)  
-System Design Basics  
+Operating Systems  
+System Design (Foundations)
 
-Strong grasp of memory management, time-complexity trade-offs, and abstraction layers.
-
----
-
-## CURRENT DIRECTION
-
-- Advancing in Java backend ecosystem  
-- Building production-level full stack projects  
-- Improving system design thinking  
-- Preparing for product-based companies  
+Strong grasp of abstraction layers, complexity tradeoffs, and memory behavior.
 
 ---
 
-## GITHUB INSIGHTS
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-aadi07&show_icons=true&theme=graywhite&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-aadi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aadi07&layout=compact&theme=graywhite&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aadi07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+# 🐍 Contribution Snake
+
 <p align="center">
-Focused on building scalable systems.  
-Open to backend engineering roles and high-impact teams.
+  <img src="https://raw.githubusercontent.com/Dev-aadi07/Dev-aadi07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🎯 Current Direction
+
+- Advancing deeper into Java backend ecosystem  
+- Building production-ready full stack systems  
+- Strengthening system design thinking  
+- Targeting top product-based companies  
+
+---
+
+<p align="center">
+  <b>Focused on scalable systems. Open to backend engineering roles.</b>
 </p>
