@@ -1,89 +1,200 @@
-<h1 align="center">🚀 Adarsh Kumar Jha</h1>
+# <h1 align="center">Hi 👋, I'm Adarsh Kumar Jha</h1>
 
 <p align="center">
-  🎓 Final Year Computer Science (AI) Student <br>
-  🏆 GATE 2025 Qualified <br>
-  ☕ Aspiring Java Backend Developer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;GATE+2025+Qualified;Computer+Science+(AI)+Student;Spring+Boot+Enthusiast;DSA+%7C+OOPS+%7C+Databases" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-aadi07&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://linkedin.com/in/adarsh-kumar-jha-519b06285">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aadarshjha07137@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me  
+# 🚀 About Me
 
-- 🎓 Final Year **Computer Science (AI)** Student  
-- 🏆 **GATE 2025 Qualified**  
-- 💡 Strong in **DSA, OOPS & Core CS Fundamentals**  
-- ☕ Focused on **Java Backend Development**  
-- 🗄 Hands-on with **JDBC, Hibernate Core, Hibernate JPA**  
-- 🛢 Experienced with **MySQL & PostgreSQL**  
-- 📦 Build projects using **Maven**  
-- 🌱 Currently preparing for **Spring Boot & Production-level Backend Systems**  
+🎓 Final Year **Computer Science (AI)** Student
+
+🏆 **GATE 2025 Qualified**
+
+☕ Passionate about **Java Backend Development**
+
+💡 Strong foundation in:
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+
+🌱 Currently learning:
+
+* Spring Boot
+* REST APIs
+* Microservices
+* System Design
+
+🎯 Goal: Build scalable and production-ready backend systems.
 
 ---
 
-# 🛠️ Tech Stack  
+# 🛠 Tech Stack
 
-## 💻 Programming Languages  
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,python"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript"/>
 </p>
 
-## 🗄️ Databases  
+### ⚙ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=maven"/>
+</p>
+
+* JDBC
+* Hibernate Core
+* Hibernate JPA
+* REST APIs
+
+### 🗄 Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
-## ⚙️ Backend & Build Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=maven,git,github,nodejs"/>
-</p>
+### 🌐 Frontend
 
-- JDBC  
-- Hibernate Core  
-- Hibernate JPA  
-- REST APIs (Learning Phase)
-
-## 🌐 Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=html,react,tailwind,vite"/>
 </p>
 
-## 🧰 IDEs & Development Environment  
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse"/>
-</p>
+### 🧰 Tools & Environment
 
-- VS Code  
-- IntelliJ IDEA  
-- Eclipse IDE  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse"/>
+</p>
 
 ---
 
-# 📊 GitHub Analytics  
+# 🚀 Featured Projects
+
+### 📚 Student Management System
+
+> Java • JDBC • MySQL
+
+A console-based CRUD application implementing database connectivity, object-oriented design, and SQL operations.
+
+### 👨‍💼 Employee Management System
+
+> Hibernate • Maven • PostgreSQL
+
+A complete employee management application demonstrating ORM concepts and database operations using Hibernate.
+
+### 🌐 REST API Project *(In Progress)*
+
+> Spring Boot • JPA • PostgreSQL
+
+Developing RESTful APIs following industry-standard backend development practices.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-aadi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-aadi07&theme=tokyonight&hide_border=true" height="165"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-aadi07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-aadi07&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aadi07&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-aadi07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-aadi07&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+* 🏅 GATE 2025 Qualified
+* 💻 Strong foundation in DSA & Core CS Subjects
+* 🚀 Built multiple Java + Database projects
+* 📚 Actively learning Spring Boot & Backend Architecture
+
+---
+
+# 🎯 Current Roadmap
+
+```text
+✅ Core Java
+✅ OOPS
+✅ Collections Framework
+✅ Exception Handling
+
+✅ JDBC
+✅ Hibernate Core
+✅ Hibernate JPA
+
+🔄 Spring Boot
+🔄 REST APIs
+🔄 Microservices
+
+🎯 System Design
+🎯 Docker
+🎯 AWS
+```
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="YOUR_LEETCODE_LINK">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_CODECHEF_LINK">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="YOUR_GFG_LINK">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/adarsh-kumar-jha-519b06285"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/> </a> <a href="mailto:aadarshjha07137@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/> </a> </p>
 
-# 🚀 Current Focus
-```text
-✔ Mastering Advanced Java & Multithreading
-✔ Building CRUD Apps using Hibernate + Maven
-✔ Strengthening System Design Basics
-✔ Preparing for Spring Boot Development
+<p align="center">
+  <a href="https://linkedin.com/in/adarsh-kumar-jha-519b06285">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="mailto:aadarshjha07137@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<h3 align="center">
+  🚀 Building scalable backend systems, one commit at a time.
+</h3>
