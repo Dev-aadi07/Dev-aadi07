@@ -178,7 +178,7 @@ A modern responsive portfolio showcasing projects, skills, and development journ
 # 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/Dev-aadi07" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/409ba5/Dev-aadi07" />
 </p>
 
 ---
