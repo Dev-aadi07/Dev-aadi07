@@ -178,7 +178,7 @@ A modern responsive portfolio showcasing projects, skills, and development journ
 # 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-aadi07&theme=tokyo-night&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/00ff00/Dev-aadi07" alt="GitHub Contribution Chart" />
 </p>
 
 ---
@@ -223,7 +223,7 @@ A modern responsive portfolio showcasing projects, skills, and development journ
 
 <p align="center">
 
-<a href="[YOUR_LEETCODE_LINK](https://leetcode.com/u/Aadarsh07/)">
+<a href="https://leetcode.com/u/Aadarsh07/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -231,7 +231,7 @@ A modern responsive portfolio showcasing projects, skills, and development journ
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="[YOUR_GFG_LINK](https://www.geeksforgeeks.org/profile/aadarshjk6qu?tab=activity)">
+<a href="https://www.geeksforgeeks.org/profile/aadarshjk6qu?tab=activity">
   <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
